@@ -1,5 +1,5 @@
 BitLicense
-==========
+===========
 This repository was made to facilitate improvements to New York's Bitcoin regulation proposal by and for the global community. 
 
 NEW YORK STATE
